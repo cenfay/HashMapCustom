@@ -31,5 +31,6 @@ public class Main {
             map.put(badKey, "Value" + i);
             logMapState(map);
         }
+        System.out.println("Программа завершена");
     }
 }
